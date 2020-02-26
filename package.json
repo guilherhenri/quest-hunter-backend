@@ -1,0 +1,11 @@
+{
+  "name": "quest-hunter-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/guilherhenri/quest-hunter-backend.git",
+  "author": "Guilherme Henrique <guilherhenri12@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
